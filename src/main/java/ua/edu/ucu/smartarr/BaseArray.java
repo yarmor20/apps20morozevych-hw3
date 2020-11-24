@@ -10,7 +10,7 @@ public class BaseArray implements SmartArray{
 
     @Override
     public Object[] toArray() {
-        return baseArray.clone();
+        return baseArray;
     }
 
     @Override
