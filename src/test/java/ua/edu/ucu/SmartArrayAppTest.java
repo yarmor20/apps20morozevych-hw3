@@ -3,10 +3,6 @@ package ua.edu.ucu;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author Andrii_Rodionov
- */
 public class SmartArrayAppTest {
 
     @Test
